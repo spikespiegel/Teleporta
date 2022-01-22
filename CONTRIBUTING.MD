@@ -4,13 +4,13 @@ Thank you for your interest in Teleporta. Any contribution is greatly appreciate
 We want to build a decentralized, fast, very cheap, almost-free, simple-to-use transportation
 system which anyone can use anywhere around the world without any control. 
 
-## Help Us To Build Our Community!   
+## Help us to build our community!   
 
 Our main aim is to make Teleporta globally accessible. 
 Everyone in the world should be easily access to it or its components (both software and hardware).
 This is why we are designing it open source, and this is why we need your help! 
 
-## Growing Together
+## Growing together
 
 Blockchain technology and 3D printers have big open-source communities behind them. It is better to grow with them together!
  
