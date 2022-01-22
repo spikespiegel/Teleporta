@@ -77,14 +77,14 @@ Teleporta will not have these disadvantages.
 - It is sustainable. It eliminates fuel consumptions and CO2 emissions caused by good transportation. 
 
 
-## Teleporta Operations
+## Detailed Look At Teleporta
 
 Teleporta will allow different [modes of operations](docs/Teleporta_Operations.md) for further flexibility and efficiency. These modes may use slightly different procedures.
 
 
 
 
-## Road Map 
+## Design Considerations
 
 For Teleporta to operate properly, three related systems must be developed:
 - Smart Transporters, which are the necessary hardware to make the physical tranportation
