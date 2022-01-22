@@ -80,7 +80,7 @@ Teleporta will not have these disadvantages.
 ## More On Teleporta
 
 Learn more about Teleporta in the Docs folder. The [basic terminology](docs/Key_Terminology.md) is provided in the Key_Terminology file, 
-and all [features](docs/Teleporta_Features) are explained in the Teleporta_Features file. 
+and all [features](docs/Teleporta_Features.md) are explained in the Teleporta_Features file. 
 
 
 
