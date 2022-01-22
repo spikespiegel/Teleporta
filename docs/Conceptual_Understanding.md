@@ -70,3 +70,8 @@ There will exist only the internet connection powered by blockchain technology b
 
 Yes. We aim to use the blockchain technology for this purpose. This way, transportations can be tracked, verified, and processed in a secure way. 
 [Portal](Economics_In_Teleporta.md) will be the blockchain system in Teleporta. It will be responsible for the security and verification of transportations.
+
+## What are Intellectual Property Tokens? 
+
+Intellectual Property Tokens are a special subclass of Non-funginle Tokens (NFT) that corresponds to physical objects to be transformed. 
+In Teleporta, each transported item will be represented by IPTs. 

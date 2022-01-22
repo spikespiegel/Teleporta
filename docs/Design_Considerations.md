@@ -10,7 +10,7 @@ they are only given as helping aids. It is nice if you have words to say!
 Any part of the proposed system (Teleporta) can be changed, updated, or deleted, including the names in the system. 
 Do not hesitate to share your ideas, ask questions, or make suggestions of "wouldn't-it-be-nice-if-we-add-this-feature" concepts. 
 Also, if you have great ideas on the design of the system, or you want to help implementing it, that is great! 
-For [contributions](CONTRIBUTING.md), please email me at [ilterismanisali@teleporta.org](mailto:ilterismanisali@teleporta.org). 
+For [contributions](../CONTRIBUTING.md), please email me at [ilterismanisali@teleporta.org](mailto:ilterismanisali@teleporta.org). 
 Any contributions are welcome, and are greatly appreciated. 
 
 Teleporta has its own terminology (which can be changed as proposed). If any of the terms, names or the systems are unfamiliar to you,

@@ -42,6 +42,4 @@ You will soon start sending goods anywhere, cheaply and easily. We are developin
 
 ## Any kind of suggestions are welcome! Do not hesitate to ask questions or suggest a great idea of yours! 
 
-To suggest anything or ask a question, email me at [ilterismanisali@teleporta.org](mailto:ilterismanisali@teleporta.org)
-
-**Note:** This file will be updated regularly.  
+To suggest anything or ask a question, email me at [ilterismanisali@teleporta.org](mailto:ilterismanisali@teleporta.org) 
