@@ -48,7 +48,7 @@ Teleporta will involve three components:
 
 Basic Operation: Sender and receiver requires to have Smart Transporters, to be able to make the transportation. Then,
 - The 3D scanner in the receiver side scans the good and generates a file, consisting on the 3D digital model of the good with its shape and dimensions, 
-and material information. The good in this side good will then be unnecessary, and can be recycled by melting. 
+and material information. The good in the sender side will then be unnecessary, and can be recycled by melting. 
 - The file will be sent to the receiver side via the internet. 
 - The 3D printer in the receiver side reproduces the good according to the information on the file. 
 - All this information will be stored on the blockchain, so that the transportations can be secured and verified. 
