@@ -34,7 +34,7 @@ No. In the past, the reproduction of the good in the receiver side could not be 
 It was either impossible to manufacture the good without specialized equipment, or the manufacturing was too slow, or expensive. 
 However, with the invention of revolutionary 3D printers, today goods can be manufactured in a cheap and fast way.
 
-## Will Any Good Be Able To Transported By Teleporta?
+## Is It Possible to Transport *Any Good* By Teleporta?
 Unfortunately, no. Teleporta depends heavily on 3D printers to make the reproduction in the transportation. Therefore, goods that cannot be produced by a 3D printer cannot be transported by Teleporta. Some of the transportation classes that are not possible to transport with Teleporta are:
 
 1. liquid (water, petroleum, etc) and gas (oxygen, natural gas, etc) transportation
