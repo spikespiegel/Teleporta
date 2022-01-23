@@ -87,7 +87,7 @@ look at Conceptual_Understanding file.
 
 ## Contributions 
 
-Thank you for your interest on Teleporta. Contributions are very welcome! Such a project is too big for a small group of people, thus a community support is needed. If you want to share your ideas on Teleporta, help us develop it, or share it on social media, that is great! Check out [how can you contribute](CONTRIBUTING.md). 
+Thank you for your interest on Teleporta. Contributions are very welcome! Such a project is too big for a small group of people, thus community support is needed. If you want to share your ideas on Teleporta, help us develop it, or share it on social media, that is great! Check out [how can you contribute](CONTRIBUTING.md). 
 
 Do not hesitate to ask questions, or suggest a great idea of yours! Contact: [ilterismanisali@teleporta.org](mailto:ilterismanisali@teleporta.org)
 
