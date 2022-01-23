@@ -19,7 +19,7 @@ Blockchain technology and 3D printers have big open-source communities behind th
 At the Teleporta's core are three independent revolutionary technologies. 
 We are trying to combine these technologies in a unique and creative way to develop 
 a new technology. We need to design the necessary hardware by combining 3D systems, 
-we need to design our blockchain-powered system, we need to write tons of code... 
+design our blockchain-powered system, and write tons of code. 
 Thus, we need people with any level of experience on each of these technologies.
 All of people who understands a small bit about technology is welcome! 
 
