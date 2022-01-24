@@ -24,11 +24,11 @@ which eliminates all this complex transportation network, *replacing it with onl
 
 The conventional transportation system works based on the principle that goods must be physically carried
 by a good-carrying device that must work on a physical network like rails or roads. In this paper, we propose a new method to make transportation. 
-This method, called **destroy and reproduce**, eliminates the need for physically carrying the goods between sender and receiver, or producer and customer.
+This method, called **destroy-and-reproduce**, eliminates the need for physically carrying the goods between sender and receiver, or producer and customer.
 In destroy-and-reproduce method, there is no need for a physical medium like roads, rails, water and airways. 
 Instead, it works with a global, peer-to-peer (P2P) internet connection that connects every sender and receiver of goods around the world.
 
-## The System Components and Basic Operation
+### The System Components and Basic Operation
 
 Teleporta needs two devices, called **Smart Transporters** on the sender's and receiver's side, and a blockchain-powered internet connection, to operate.
 Each Smart Trasnporter includes a 3D scanner, a 3D printer and a 3D recycler. Then, a basic producedure of transportation is as follows:
@@ -39,12 +39,32 @@ Each Smart Trasnporter includes a 3D scanner, a 3D printer and a 3D recycler. Th
 to be copied, the recycling phase can be eliminated.
 5. For the transportation to be done securely, all the information will be stored to blockchain. 
 
-This procedure is the basis of the *destroy-and-reproduce* method. The good will be recycled on the sender's side, and reproduced on the receiver's side again,
+This procedure is the basis of the *destroy-and-reproduce* method. The good will be recycled (detroyed) on the sender's side, and reproduced on the receiver's side again,
 thus eliminating the physical carry phase. All the information about the good is virtually transported over the internet. This method allows for goods to be send
 and received anywhere in the globe, in a decentralized way. Since there is no medium between sender and receiver, the transportation cannot be regulated, 
 controlled, or prevented by a central authority. 
 
-## 
+### Advantages Provided By Teleporta
 
+Bu eliminating all the complex conventional global transportation system, Teleporta achieves the following advantages:
+- Cheap: The system eliminates all supply chain and transportation costs. Only a small fee will be required to use the system. 
+- Fast: The operation speed of the overall system equals to the production speed of the 3D printer in the receiver's side. The virtual transportation
+over the internet requires almost no time. 
+- Sustainable: With the elimination of good-carrying devices, fuel consumptions and CO2 emissions are eliminated. 
+- Decentralized: No central control over any transportation. People are allowed to send and receive goods anywhere around the world.  
+- Secure and Private: The security and privacy is provided by the blockchain technology.
+- Automatic: No need for human-intervention, reducing errors. The system will work as one integrated operating system of transportation. 
 
+## System Properties
 
+### Operation Modes
+
+For flexibity, Teleporta allows for various modes of operation: regular mode, copy mode, designer mode, virtual transportation mode, and user-defined mode. 
+- Regular mode: This is the default mode of operation. It allows individuals to send and receive goods freely. 
+   1. The 3D scanner in the Smart Transporter in the sender's side scans the good, and creates a file that describes the properties of the good, including its 3D model.
+   2. This file is sent to the Smart Transporter in the receiver's side over the internet. 
+   3. The Smart Transporter will reproduce the good in the receiver's side. It announces that the reproduction is successfully done, or informs about any errors. 
+   4. Getting this information, the Smart Transporter in the sender's side recycles the good. 
+   5. All this information is stored to the blockchain. 
+
+- Copy mode: 
