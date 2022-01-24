@@ -35,7 +35,7 @@ with the Portal. All information (or some of it) might be stored on the blockcha
 
 Portal will be the blockchain-based system. 
 
-For a detailed explanation of Teleporta, check out [features of Teleporta](Teleporta_Features.md).
+For a detailed explanation of Teleporta, check out [features of Teleporta](../WHITEPAPER.md).
 
 # Important Design Decisions 
 
