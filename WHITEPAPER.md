@@ -9,7 +9,7 @@ with huge supply chain costs. In this paper, a new method of transportation, cal
 Also, a system, Teleporta, implementing this new method to make the transportation is explained. "Destroy-and-reproduce" totally
 eliminates all the physical medium between the sender and receiver, including roads, rails, water and air ways, 
 and requires only the blockchain-powered internet connection to operate, along with specially designed devices called **Smart Transporters**.
-The whitepaper discusses in detail the components Teleporta includes, how the system operates, and advantages provided by it compored to traditional
+The paper discusses in detail the components Teleporta includes, how the system operates, and advantages provided by it compored to traditional
 transportation. Finally, some of the future applications are discussed. 
 
 ## Introduction
@@ -57,6 +57,46 @@ over the internet requires almost no time.
 
 ## System Properties
 
+In this section, detailed explanation of components and procedures in Teleporta are given. 
+
+### Teleporta Components
+
+Functional Specification of Teleporta can be investigated by three elements:
+- Smart Transporters
+- Virtual Transportation System (VTS)
+- the blockchain, Portal
+
+The Virtual Transportation System (VTS) constitutes the real power of the system that makes the decentralized, secure and cheap transportation
+possible. Virtual Transportation system is responsible for every operation, communication and data sharing between Smart Transporters. It controls 
+Smart Transporters and determines how and when the transportation is done. VTS allows the transportation to be done as an *atomic procedure*. Once started, 
+all steps in a transportation could be executed without human-intervention. For this purpose, Teleporta offers different transportation modes that can be used for 
+different purposes. 
+
+Portal is responsible for the security. All transportations can be verified, secured and processed thanks to Portal. It is also responsible for the economics. 
+Users will pay small fees to make transportation, depending on trasnportation modes. 
+
+Smart Transporters make the *physical transportation* possible by destroy-and-reproduce concept. They are the core behind Teleporta to accomplish its goals.
+Smart Transporters require three components for proper operation: 3D scanner, 3D printer, and a 3D recycler. 
+
+3D printers are behind the revolutionary production technology. The main advantage of them is that they can make *generalized production*. In the past, specialized and 
+different manufacturing machines was required. Today, however, 3D printers can be used to produce almost any shape with micrometer range accuracy. They are used in 
+various production fields including medicine, food production, aerospace, automobile industry, building construction. 
+Teleporta depends heavily on 3D printers to operate. Although their use are not mandatory (the use of other manufacturing devices are possible), they are
+preferred due to their ability to produce general-shaped products. 
+
+3D scanners are used to create the digital model of a physical object. They are the main *digitalization* element in Teleporta. All physical objects can be converted 
+to their digital models. Teleporta supports storage of physical objects in digital forms, instead of physical storage. Physical storage, also known as warehousing,
+is part of the traditional supply chain system. Teleporta eliminates warehouses by using digitalization. 
+
+The digital models will be saved as Intellectual Property Tokens (IPTs). These tokens determine the ownership of a physical object. This way, the physical object is allowed
+to be produced any time, without a transportation to take place. This feature is especially useful, when storage of big-sized physical items becomes problematic.
+A physical object can be scanned and digitalized, and saved in the digital form, until a suitable storage area is obtained for the item. 
+
+3D recyclers are simple melting devices that melts down a shaped object to raw material to be used later. They are small recycling units included in a all-in-one device.
+They correspond to *decentralized recycling* in Teleporta. Normally in traditional transportation, the *must-be-recycled* products are collected in containers, distributed
+and transported on a long way to production facilities they have beed produced. In Teleporta, they are recycled by individual people, to be directly used in other transportations.  
+
+
 ### Operation Modes
 
 For flexibity, Teleporta allows for various modes of operation: regular mode, copy mode, designer mode, virtual transportation mode, and user-defined mode. 
@@ -67,4 +107,50 @@ For flexibity, Teleporta allows for various modes of operation: regular mode, co
    4. Getting this information, the Smart Transporter in the sender's side recycles the good. 
    5. All this information is stored to the blockchain. 
 
-- Copy mode: 
+- Copy mode: There are two copy modes in Teleporta. 
+  - Users want to copy the item in both sides. In this case, the 3D recycler step in the regular mode is eliminated. Other steps are applied as mentioned.
+  - When a single user wishes to copy his/her item without transportation. In this case, Teleporta can be used as a production device. The procedure is:
+    1. The 3D scanner inside the Smart Transporter scans the good and creates the file including 3D digital model of the item. The file is directly sent to the 3D printer of the same Smart Transporter. 
+    2. The 3D printer reproduces the item. All communications are done inside the Smart Transporter.
+    3. The item is copied. The information will be stored to blockchain. 
+ 
+- Designer mode: This mode is used when the sender does not have a physical item, but only have the 3D model file. This mode is mostly used by production companies, designers and customers. This mode allows elimination of production costs for production companies, because they can only sell their designs without manufacturing the actual physical product. In the designer mode, the item is manufactured on the customer’s side. The procedure is: 
+   -	Smart Transporter in the designer’s side sends the 3D model file to the customer. There is no scanning process in this case. 
+   -	Smart Transporter in the customer’s side manufactures the product.
+   -	It sends the verification information to announce that the transportation is complete.
+   -	All the necessary information is stored in the blockchain. 
+
+- Virtual Transportation Mode: This mode allows only the virtual transportation to take place. This mode is used when it is not wished to produce the item physically at the end of the production. When the virtual transportation happens, the receiver is now the owner of the Intellectual Property Token (IPT), which refers to and represents the physical item. Being the owner of the token, the receiver can now produce the physical item any time. It is a subclass of regular mode or designer mode depending on whether the sender has a physical item or a 3D model of the item. 
+
+- 	User-defined mode: Users define their own procedures with Teleporta’s user-friendly and ease-to-use procedure design system. Users can develop procedures according to their wishes, and use these modes in their own transportations. This added programmability allows the users to use Teleporta in efficient and smart ways. 
+
+
+## Further Advantages And Applications
+
+
+With changing the basic transportation method, Teleporta allows developing new concepts and methods in different systems. 
+Some of these new concepts are provided for convenience:
+
+- Integrated Productivity: Smart Transporters are all-in-one unit that includes all phases of a product, including its digital form, 
+its produced physical form and recycled and raw form. With the help of Smart Transporters, a product can be converted between these forms
+whenever appropriate. Products can be easily recycled when they are not in use, and reproduced when there is a need. This concept is called
+**dynamic production** in Teleporta. Dynamic production eliminates the need for the physical storage areas.
+
+- Produce-in-customer (PiC) model: Unlike traditional transportation, where the production is done in a production facility and the product is sent, 
+in Teleporta, the production is done is the *receiver side*. This concept eliminates the production costs of producers, together with their transportation costs.
+This allows for the growth of new business and economic models related to production. 
+
+- Produce-as-much-as-you-consume: Traditionally, the transportation is like an *line* that starts from the producers (senders) and ends in customers (receivers). 
+Teleporta changes this scheme by making it a *circle*. In Teleporta, producers and customers are the same people. This allows them to produce and consume at equal rates.
+This concept is called *productivity equilibrium*. With the help of dynamic production concept, they can produce and recycle a good according to their wishes. 
+In Teleporta, no one controls when to produce a good, and when to throw it away. In decentralized sytems, people are in control!
+
+
+
+
+
+
+
+
+
+
