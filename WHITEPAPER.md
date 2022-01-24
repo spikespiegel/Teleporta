@@ -147,7 +147,12 @@ In Teleporta, no one controls when to produce a good, and when to throw it away.
 
 
 
+## Conclusion 
 
+In this paper, a new transportation method is proposed, and a system, Teleporta, that uses this method to make good transportation is explained in detail. As can be seen,
+a simple change in transportation methodology results in huge advanatages. The revolutionary blockchain and 3D printing technologies make possible to implement such a system,
+which was not possible in the past due to the lack of generalized production devices, and security features without which transportations cannot be verified and processed
+automatically. Using these technologies, we can implement a new good transportation system that is cheap, fast, automatic, decentralized and secure. 
 
 
 
