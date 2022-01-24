@@ -1,7 +1,5 @@
 # Teleporta
 
-## Introduction
-
 ### The Goal
 We aim to develop a global and decentralized good transportation system. The system is going to be automatic,
 fast, cheap and secure. The system will allow any individual, company or institution to transport goods to 
