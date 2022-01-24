@@ -142,7 +142,7 @@ This allows for the growth of new business and economic models related to produc
 
 - Produce-as-much-as-you-consume: Traditionally, the transportation is like an *line* that starts from the producers (senders) and ends in customers (receivers). 
 Teleporta changes this scheme by making it a *circle*. In Teleporta, producers and customers are the same people. This allows them to produce and consume at equal rates.
-This concept is called *productivity equilibrium*. With the help of dynamic production concept, they can produce and recycle a good according to their wishes. 
+We call this concept *productivity equilibrium*. With the help of dynamic production concept, they can produce and recycle a good according to their wishes. 
 In Teleporta, no one controls when to produce a good, and when to throw it away. In decentralized sytems, people are in control!
 
 
