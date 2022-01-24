@@ -38,5 +38,5 @@ wish to send goods to each other, or from one place to another. This mode will a
 6.	User-defined mode: Users define their own procedures with Teleporta’s user-friendly and ease-to-use procedure design system. Users can develop procedures according to their wishes, and use these modes in their own transportations. This added programmability allows the users to use Teleporta in efficient and smart ways. 
 
 
-Check out [more features of Teleporta](Teleporta_Features.md) to improve [your understanding](Conceptual_Understanding.md). If some of these terms are unfamiliar or confusing, check out the [terminology](Key_Terminology.md)
+Teleporta is explained in detail in [Whitepaper](../WHITEPAPER.md). Feel free to check it out to improve [your understanding](Conceptual_Understanding.md). If some of these terms are unfamiliar or confusing, check out the [terminology](Key_Terminology.md)
 of Teleporta. 
