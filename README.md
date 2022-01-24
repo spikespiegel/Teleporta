@@ -77,7 +77,7 @@ Teleporta will not have these disadvantages.
 
 ## More On Teleporta
 
-Feel free to check out the [Wtitepaper](WHITEPAPER.md), which basically covers all the important features in Teleporta. 
+Feel free to check out the [Whitepaper](WHITEPAPER.md), which basically covers all the important features in Teleporta. 
 The [basic terminology](docs/Key_Terminology.md) is provided in the Key_Terminology file, and to [understand more](docs/Conceptual_Understanding.md) on the system, 
 look at Conceptual_Understanding file. 
 
